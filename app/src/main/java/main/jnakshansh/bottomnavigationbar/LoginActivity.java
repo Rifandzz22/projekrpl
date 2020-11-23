@@ -10,6 +10,8 @@ public class LoginActivity extends AppCompatActivity {
     private Button btn;
     private Button btn1;
 
+    //ini komentar
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

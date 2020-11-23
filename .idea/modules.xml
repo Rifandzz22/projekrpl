@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="projekrpll/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projekrpl.iml" filepath="$PROJECT_DIR$/.idea/modules/projekrpl.iml" group="projekrpl" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/projekrpl-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/projekrpl-app.iml" group="projekrpl/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projekrpll.iml" filepath="$PROJECT_DIR$/.idea/modules/projekrpll.iml" group="projekrpll" />
     </modules>
   </component>
 </project>
